@@ -25,7 +25,7 @@ global.onlypc = process.env.ONLYPC_MSG  || "Sorry buddy the bot won't work direc
 global.onlygroup = process.env.ONLYGC_MSG  || "Sorry buddy the bot won't work directly in private chat to reduce spam use in group";
 
 
-global.simbol = "☚⍢⃝☚"
+global.simbol = "⟣"
 global.tempatDB = 'database.json' // dont change might cause big errors 
 global.pairing_code = false // if deploying on panel set true if on any other platform leave it false
 
